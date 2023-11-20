@@ -1,4 +1,5 @@
 # EAE1106: Trabalho Final
-Trabalho Final da disciplina EAE1106: Métodos Computacionais para Economisras
+Trabalho Final da disciplina EAE1106: Métodos Computacionais para Economistas
+<hr>
 
-Grupo: Ana Werneck de Souza Dias, Felipe Nogueira de Barros Corrêa, Gabriel Finamore, Guilherme Menezes Cruz, Marina Perroni Romano e Leonardo de Souza Teodoro
+**Grupo:** Ana Werneck de Souza Dias, Felipe Nogueira de Barros Corrêa, Gabriel Finamore, Guilherme Menezes Cruz, Marina Perroni Romano e Leonardo de Souza Teodoro
